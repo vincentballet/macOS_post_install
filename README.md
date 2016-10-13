@@ -20,4 +20,5 @@ $ ./macOS_post_install.sh
 
 ##Credits:
 https://github.com/ryanmaclean/OSX-Post-Install-Script
+
 https://github.com/snwh/osx-post-install
