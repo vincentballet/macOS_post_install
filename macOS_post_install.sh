@@ -48,7 +48,7 @@ declare -a brew_apps=( wget git zsh emacs ffmpeg node libssh openssh fortune )
 declare -a mas_apps=( "BetterSnapTool" "Amphetamine" "Pages" "Keynote" "Numbers" "Xcode"
     "Twitter" "GifGrabber" )
 declare -a cask_apps=( flux google-drive appcleaner BetterSnapTool sublime-text3 google-chrome
-    firefox transmission selfcontrol spotify spotifree skype onyx vlc spotify-notifications )
+    firefox transmission selfcontrol spotify spotifree skype onyx vlc spotify-notifications aerial)
 
 for app in "${brew_apps[@]}"
 do
